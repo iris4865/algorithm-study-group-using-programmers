@@ -9,7 +9,7 @@
 1. 상위 Repo에서 Pull한다.
 2. 프로그래머스의 모든문제에서 선정한다.
 3. Fork한 Repo에서 Create New File을 선택하여 문제제목/README.md 파일을 만든다. (소스트리 등 다른 것도 가능합니다.)
-  - ex) 01. 체육복/README.md
+    - ex) 01. 체육복/README.md
 4. 문제내용과 링크를 첨부한다.
 5. Pull Request한다.
 
@@ -18,5 +18,5 @@
 2. 단톡 혹은 상위Repo의 README.md을 이용하여 오늘의 프로그래머스 문제로 찾아간다.
 3. 프로그래머스 문제를 해결한다.
 4. Fork한 Repo에서 Create New File을 선택하여 문제제목/자신의ID.cpp 파일을 만들고 자신의 코드를 등록한다. (소스트리 등 다른 것도 가능합니다.)
-  - ex) 01. 체육복/iris4865.py
+    - ex) 01. 체육복/iris4865.py
 5. Pull Request한다.
