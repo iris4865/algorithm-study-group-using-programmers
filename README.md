@@ -25,3 +25,7 @@
 1. [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
 2. [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 3. [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
+4. 미정
+5. 미정
+6. 미정
+7. [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
