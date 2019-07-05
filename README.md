@@ -26,6 +26,6 @@
 2. [2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
 3. [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)
 4. [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
-5. 미정
+5. [스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)
 6. 미정
 7. [예산](https://programmers.co.kr/learn/courses/30/lessons/12982)
